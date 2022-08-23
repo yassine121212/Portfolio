@@ -4,7 +4,10 @@ import img3 from "./img/site3.png";
 import img4 from "./img/site4.png";
 import img5 from "./img/site5.png";
 import img6 from "./img/site6.png";
-
+import img7 from "./img/whtsclone.png";
+import img8 from "./img/fbclone.png";
+import img9 from "./img/huluclone.png";
+import img10 from "./img/instaclone.png";
 
 
 export const products = [
@@ -36,6 +39,26 @@ export const products = [
   {
     id: 6,
     img: img6,
+    link: "http://lama.dev",
+  },
+  {
+    id: 7,
+    img: img7,
+    link: "http://lama.dev",
+  },
+  {
+    id: 8,
+    img: img8,
+    link: "http://lama.dev",
+  },
+  {
+    id: 9,
+    img: img9,
+    link: "http://lama.dev",
+  },
+  {
+    id: 10,
+    img: img10,
     link: "http://lama.dev",
   },
 ];
